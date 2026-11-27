@@ -1,21 +1,21 @@
-# Data Analysis Projects
+# Data Science Journey
 
-A collection of data analysis projects, notebooks, and supporting code documenting my progressive Data Science learning journey.
+A progressive portfolio documenting my learning in Python, data analysis, statistics and machine learning through practical projects.
 
-## Learning progress
+## Module 01 — Python Fundamentals
 
-| Lesson | Topic | Mini-project | Repository |
+| Lesson | Topic | Mini-project | Portfolio |
 |---|---|---|---|
-| 01 | Python Basics | Streaming Platform Performance Analysis | [Lesson 01](01-python-basics/) |
+| 01 | Python Basics | Streaming Platform Performance Analysis | [View lesson](01-python-fundamentals/01-python-basics/) |
 | 02 | Lists and List Manipulation | Movie Catalogue Performance Analysis | Notebook pending upload |
-| 03 | Python Built-in Functions | Pharmaceutical Distribution Performance Analysis | [Lesson 03](03-python-built-in-functions/) |
+| 03 | Python Built-in Functions | Pharmaceutical Distribution Performance Analysis | [View lesson](01-python-fundamentals/03-python-built-in-functions/) |
 
-## Learning approach
+## Learning roadmap
 
-Apply foundational Python concepts to practical analytical problems, develop problem-solving skills and communicate meaningful insights.
+Python fundamentals → numerical computing → data analysis → data visualisation → statistics and probability → machine learning → capstone projects. Future modules will be added as learning progresses.
 
 ## Tools
 
 Python 3, Jupyter Notebook and GitHub.
 
-One concept, one project, one milestone at a time.
+**One concept, one project, one milestone at a time.**
