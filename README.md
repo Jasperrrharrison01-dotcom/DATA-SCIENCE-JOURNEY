@@ -7,7 +7,7 @@ A progressive portfolio documenting my learning in Python, data analysis, statis
 | Lesson | Topic | Mini-project | Portfolio |
 |---|---|---|---|
 | 01 | Python Basics | Streaming Platform Performance Analysis | [View lesson](01-python-fundamentals/01-python-basics/) |
-| 02 | Lists and List Manipulation | Movie Catalogue Performance Analysis | Notebook pending upload |
+| 02 | Lists and List Manipulation | Movie Catalogue Performance Analysis | [View lesson](01-python-fundamentals/02-lists-and-list-manipulation/) |
 | 03 | Python Built-in Functions | Pharmaceutical Distribution Performance Analysis | [View lesson](01-python-fundamentals/03-python-built-in-functions/) |
 
 ## Learning roadmap
